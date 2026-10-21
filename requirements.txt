@@ -1,0 +1,13 @@
+# Task Management System - Requirements
+# This project uses only the Python 3 standard library.
+# No third-party packages or external dependencies are required.
+#
+# Standard library modules used:
+# - tkinter & tkinter.ttk (GUI desktop framework)
+# - sqlite3 (Relational database management)
+# - hashlib & hmac (PBKDF2-HMAC password hashing)
+# - datetime (Date validation and ISO timestamps)
+# - pathlib (Cross-platform filesystem paths)
+# - unittest (Automated test suite)
+#
+# Recommended Python version: Python 3.10, 3.11, 3.12, or 3.13 on Windows.
