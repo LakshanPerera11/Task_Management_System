@@ -4,6 +4,8 @@ A complete, robust, offline desktop personal productivity application built for 
 
 Developed as an individual undergraduate IT software engineering project demonstrating relational database design, secure salted authentication, layered architecture, and responsive GUI development without external dependencies.
 
+[View the project on GitHub](https://github.com/LakshanPerera11/Task_Management_System)
+
 ---
 
 ## Features
